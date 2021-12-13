@@ -1,0 +1,16 @@
+C:\Users\SHAIK\Desktop\bridgelabs bootcamp 2\HELLOWORLD\HELLOWORLD\bin\Debug\net5.0\HELLOWORLD.exe
+C:\Users\SHAIK\Desktop\bridgelabs bootcamp 2\HELLOWORLD\HELLOWORLD\bin\Debug\net5.0\HELLOWORLD.deps.json
+C:\Users\SHAIK\Desktop\bridgelabs bootcamp 2\HELLOWORLD\HELLOWORLD\bin\Debug\net5.0\HELLOWORLD.runtimeconfig.json
+C:\Users\SHAIK\Desktop\bridgelabs bootcamp 2\HELLOWORLD\HELLOWORLD\bin\Debug\net5.0\HELLOWORLD.runtimeconfig.dev.json
+C:\Users\SHAIK\Desktop\bridgelabs bootcamp 2\HELLOWORLD\HELLOWORLD\bin\Debug\net5.0\HELLOWORLD.dll
+C:\Users\SHAIK\Desktop\bridgelabs bootcamp 2\HELLOWORLD\HELLOWORLD\bin\Debug\net5.0\ref\HELLOWORLD.dll
+C:\Users\SHAIK\Desktop\bridgelabs bootcamp 2\HELLOWORLD\HELLOWORLD\bin\Debug\net5.0\HELLOWORLD.pdb
+C:\Users\SHAIK\Desktop\bridgelabs bootcamp 2\HELLOWORLD\HELLOWORLD\obj\Debug\net5.0\HELLOWORLD.csproj.AssemblyReference.cache
+C:\Users\SHAIK\Desktop\bridgelabs bootcamp 2\HELLOWORLD\HELLOWORLD\obj\Debug\net5.0\HELLOWORLD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHAIK\Desktop\bridgelabs bootcamp 2\HELLOWORLD\HELLOWORLD\obj\Debug\net5.0\HELLOWORLD.AssemblyInfoInputs.cache
+C:\Users\SHAIK\Desktop\bridgelabs bootcamp 2\HELLOWORLD\HELLOWORLD\obj\Debug\net5.0\HELLOWORLD.AssemblyInfo.cs
+C:\Users\SHAIK\Desktop\bridgelabs bootcamp 2\HELLOWORLD\HELLOWORLD\obj\Debug\net5.0\HELLOWORLD.csproj.CoreCompileInputs.cache
+C:\Users\SHAIK\Desktop\bridgelabs bootcamp 2\HELLOWORLD\HELLOWORLD\obj\Debug\net5.0\HELLOWORLD.dll
+C:\Users\SHAIK\Desktop\bridgelabs bootcamp 2\HELLOWORLD\HELLOWORLD\obj\Debug\net5.0\ref\HELLOWORLD.dll
+C:\Users\SHAIK\Desktop\bridgelabs bootcamp 2\HELLOWORLD\HELLOWORLD\obj\Debug\net5.0\HELLOWORLD.pdb
+C:\Users\SHAIK\Desktop\bridgelabs bootcamp 2\HELLOWORLD\HELLOWORLD\obj\Debug\net5.0\HELLOWORLD.genruntimeconfig.cache
